@@ -7,6 +7,10 @@ Date : Oct. 27, 2021
 Version : 1.0
 The code and the algorithm are for non-comercial use only.
 Copyright 2021, Department of Electronic Information Engineering, Nanchang University.
-##HINN system overview and network architecture
+
+
+## HINN system overview and network architecture
+ <div align="center"><img src="https://github.com/yqx7150/iVAN/blob/main/figs/Fig2.jpg"> </div>
+ 
 # Train
 Prepare your own datasets for HINN
