@@ -10,7 +10,7 @@ Copyright 2021, Department of Electronic Information Engineering, Nanchang Unive
 
 
 ## HINN system overview and network architecture
- <div align="center"><img src="https://github.com/yqx7150/iVAN/blob/main/figs/Fig2.jpg"> </div>
+ <div align="center"><img src="https://github.com/yqx7150/HINN/figs/1.png"> </div>
  
 # Train
 Prepare your own datasets for HINN
