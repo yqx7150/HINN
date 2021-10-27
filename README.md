@@ -8,10 +8,10 @@ The code and the algorithm are for non-comercial use only.
 Copyright 2021, Department of Electronic Information Engineering, Nanchang University.
 
 
-## HINN system overview and network architecture
+# HINN system overview and network architecture
  <div align="center"><img src="https://github.com/yqx7150/HINN/blob/main/figs/1.png"> </div>
  
-## Installation 
+# Installation 
 We have tested our code on Ubuntu 18.04 LTS with PyTorch 1.4.0, CUDA 10.1 and cudnn7.6.5. Please install dependencies by 
 conda env create -f environment.yml
  
@@ -20,13 +20,13 @@ Prepare your own datasets for HINN
 
 You need to create a folder for the amplitude data set, and the corresponding phase data set, and then change the path to import the data set.
 
-##command
+## command
 sh train.sh
 
 # Test
 Put  data set that is not a training set
 
-##command
+## command
 sh test.sh
 
 # Acknowledgement
